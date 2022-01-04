@@ -1,0 +1,6 @@
+[book]
+authors = ["Heyang Zhou"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bluebird Documentation"
