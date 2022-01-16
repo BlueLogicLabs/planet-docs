@@ -1,35 +1,22 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Index
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## About this site
 
-## Getting Started
+Welcome to Windi's documentation site! This site contains materials about Windi's features and design rationales, and we hope you will find them useful.
 
-Get started by **creating a new site**.
+If you:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- think a feature/property of the system should be documented but is missing
+- found a bug
+- want to share how you use Windi
 
-## Generate a new site
+you can discuss on Discord, [file an issue](https://github.com/BlueLogicLabs/windi-docs/issues), or [send a pull request](https://github.com/BlueLogicLabs/windi-docs/pulls).
 
-Generate a new Docusaurus site using the **classic template**:
+## Community
 
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+[Discord](https://discord.gg/WRuX5SXQ2u)
