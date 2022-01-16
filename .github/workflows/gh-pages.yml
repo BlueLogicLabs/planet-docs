@@ -1,27 +1,30 @@
-name: github pages
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
+    branches: [main]
+    paths: [website/**]
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v1
+      - uses: actions/setup-node@v2
         with:
-          mdbook-version: '0.4.14'
-          # mdbook-version: 'latest'
-      - run: mdbook build
-      - name: Deploy
+          node-version: 14.x
+          cache: npm
+      - name: Build website
+        run: |
+          npm ci
+          npm run build
+
+      # Popular action to deploy to GitHub Pages:
+      # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./book
+          # Build output to publish to the `gh-pages` branch:
+          publish_dir: ./build
