@@ -2,6 +2,6 @@
 sidebar_position: 4
 ---
 
-# API
+# API (Coming soon)
 
 Coming soon.

@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Tags are a useful way of grouping related notes.
 
+<img src="/img/tag-1.png" alt="tag list" height="350px" />
+
 ## Nested tags
 
 Tags can be nested. For example:
