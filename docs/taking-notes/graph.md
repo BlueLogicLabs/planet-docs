@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Graph view is a visualization of the relations between notes. Pro plan is needed to use the graph view feature.
 
-Here is a screenshot of a part of my ([@zhy](https://windi.app/people/zhy/notes)) graph:
+Here is a screenshot of a part of my graph ([@zhy](https://windi.app/people/zhy/notes)):
 
 <img alt="graph view screenshot" src="/img/graph-view-screenshot-me-1.png" />
 

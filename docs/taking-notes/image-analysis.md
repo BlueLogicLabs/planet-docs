@@ -10,3 +10,5 @@ Windi runs several image analysis workflows on your uploaded images to associate
 - **Label detection**: Describe the image with a set of labels (e.g. "person", "tree", or "car"). Windi currently uses [AWS Rekognition](https://aws.amazon.com/rekognition/) for this.
 
 The results of image analysis are indexed for search.
+
+Image upload and analysis need a Pro plan subscription.
