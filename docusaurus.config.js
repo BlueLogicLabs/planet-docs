@@ -57,7 +57,7 @@ const config = {
         style: 'light',
         links: [
         ],
-        copyright: `© ${new Date().getFullYear()} BlueLogic, LLC. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} BlueLogic LLC. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

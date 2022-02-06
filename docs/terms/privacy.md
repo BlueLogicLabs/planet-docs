@@ -12,13 +12,13 @@ We process your personal data in line with this Privacy Policy and in accordance
 
 ## Entity responsible
 
-BlueLogic, LLC a company lawfully registered in Wyoming.
+BlueLogic LLC a company lawfully registered in Wyoming.
 
 windi.app
 
 ## Principles
 
-BlueLogic, LLC processes personal data in order to better understand the needs of its customers and thus to be able to improve its services. Personal data will only be used in the specific context of your customer relationship with BlueLogic, LLC to the extent permitted by law or on the basis of your prior express consent. 
+BlueLogic LLC processes personal data in order to better understand the needs of its customers and thus to be able to improve its services. Personal data will only be used in the specific context of your customer relationship with BlueLogic LLC to the extent permitted by law or on the basis of your prior express consent. 
 
 In particular we are committed to the following key principles:
 
@@ -47,9 +47,9 @@ If the processing is necessary to protect a legitimate interest of our company o
 
 ## General technical organizational measures
 
-BlueLogic, LLC has taken a variety of security measures to protect personal information to an appropriate extent and adequately. All information held by BlueLogic, LLC is protected by physical, technical, and procedural measures that limit access to the information to specifically authorised persons in accordance with this Privacy Policy.
+BlueLogic LLC has taken a variety of security measures to protect personal information to an appropriate extent and adequately. All information held by BlueLogic LLC is protected by physical, technical, and procedural measures that limit access to the information to specifically authorised persons in accordance with this Privacy Policy.
 
-The BlueLogic, LLC Platform is behind a software firewall to prevent access from other networks connected to the Internet. In addition, only employees who need the information to perform a specific job are granted access to personally identifiable information. These employees are trained in security and privacy practices and treat your information confidentially.
+The BlueLogic LLC Platform is behind a software firewall to prevent access from other networks connected to the Internet. In addition, only employees who need the information to perform a specific job are granted access to personally identifiable information. These employees are trained in security and privacy practices and treat your information confidentially.
 
 ## Secure transfer of your data.
 
@@ -73,7 +73,7 @@ Furthermore, based on our business interests, we store information on suppliers,
 
 ## Information in the context of the use of the website
 
-In principle, it is possible to use the BlueLogic, LLC website without providing personal data. When a page of our Platform is accessed and each time a file is retrieved, access data about this process is stored in a log file. The corresponding log file contains: Your IP address, the page from which the file was requested, the name of the file, the date and time of the request, the amount of data transferred, the access status (file transferred, file not found, etc.), a description of the type of operating system and web browser used. The stored data does not allow any conclusions to be drawn about your identity and is evaluated exclusively for statistical purposes.
+In principle, it is possible to use the BlueLogic LLC website without providing personal data. When a page of our Platform is accessed and each time a file is retrieved, access data about this process is stored in a log file. The corresponding log file contains: Your IP address, the page from which the file was requested, the name of the file, the date and time of the request, the amount of data transferred, the access status (file transferred, file not found, etc.), a description of the type of operating system and web browser used. The stored data does not allow any conclusions to be drawn about your identity and is evaluated exclusively for statistical purposes.
 
 The collection and processing of this data is carried out in order to enable the use of the website at all, on the basis of Art. 6 para. 1 p. 1 f) GDPR, whereby our legitimate interest is the provision of our Platform. Incidentally, we store this aforementioned data, including the IP addresses, only in anonymized form and use it only in this anonymized form to analyze the use of the offer and the further development and optimization of our Platform in your interest, also on the basis of Art. 6 para. 1 p. 1 f) GDPR. Our legitimate interest is the ongoing improvement of our online offer in order to provide you with the greatest possible user comfort.
 
@@ -87,17 +87,17 @@ You have the right to revoke your consent to the data processing described above
 
 ## Data processing in the context of your registration and subscription
 
-The protection of your data is particularly important to us in the performance of our services and when you register or subscribe for our services. When you subscribe for a paid account, we process the information in order to fulfil the contract concluded between you and BlueLogic, LLC or to carry out pre-contractual measures in accordance with Article 6 lit. b) GDPR.
+The protection of your data is particularly important to us in the performance of our services and when you register or subscribe for our services. When you subscribe for a paid account, we process the information in order to fulfil the contract concluded between you and BlueLogic LLC or to carry out pre-contractual measures in accordance with Article 6 lit. b) GDPR.
 
 When you register or subscribe, all data necessary for execution and processing are requested by means of mandatory fields: Your name, your e-mail address, your billing address and payment details, as applicable. Your data will only be used to process your registration or subscription details, as applicable.
 
-If you submit data to BlueLogic, LLC, your data will be stored for as long as necessary for the processing of the purchase and mandatory according to the legal retention periods. The extended storage for the fulfilment of the storage obligations is carried out according to article 6 lit. c) GDPR.
+If you submit data to BlueLogic LLC, your data will be stored for as long as necessary for the processing of the purchase and mandatory according to the legal retention periods. The extended storage for the fulfilment of the storage obligations is carried out according to article 6 lit. c) GDPR.
 
 For the provision of chargeable services, we request additional data, such as payment details, in order to be able to execute your order. We store this data in our systems until the legal retention periods have expired. The extended storage for the fulfilment of the storage obligations is carried out according to article 6 lit. c) GDPR.
 
 Your personal data will only be passed on to third parties within the scope of your subscription if it is necessary for the purpose of processing the contract, for accounting purposes or for the collection of the payment.
 
-Any credit card information you provide will not be stored by BlueLogic, LLC but will be encrypted and collected directly from the payment service provider via hypertext transfer protocol secure ("https").
+Any credit card information you provide will not be stored by BlueLogic LLC but will be encrypted and collected directly from the payment service provider via hypertext transfer protocol secure ("https").
 
 Data processing in the context of Information you generate when using the Services
 You may provide Information as part of your use of the Services, including any information you provide when using our personal note-taking Services. Also, if you choose to share, chat and collaborate with your co-workers or friends, we will collect the user details of your co-workers or friends to allow the sharing of your selected notes. Please make sure you have permission from your co-workers or friends before sharing Information referring to your co-workers or friends with us. 
@@ -108,7 +108,7 @@ In principle, we will use your Information to perform our contractual obligation
 
 During the use of our Platform, so-called "cookies", small text files, are stored on your computer. Such cookies register information about your computer's navigation on our Platform (pages selected, day, time and duration of use, etc.). A cookie is downloaded via a browser the first time you visit a website. The next time you visit this website with the same device, the browser checks whether a corresponding cookie is present (i.e., contains the website name). It sends the data stored in the cookie back to the website. Some cookies are important for the website's functionality and are automatically activated by us when a user visits. Our website also uses cookies to make it easier to use and to provide you with content tailored to your information needs. 
 
-You cannot be personally identified from any of the information we collect. The use of the cookies we use is necessary in order to be able to provide the online offer of BlueLogic, LLC  at all and, moreover, to be able to optimize it on an ongoing basis. The data processing in this context is therefore based on Art. 6 para. 1 p. 1 f) GDPR. Our legitimate interest is to provide visitors to our Platform with a functioning online service and to make visiting and using the website as pleasant and efficient as possible.
+You cannot be personally identified from any of the information we collect. The use of the cookies we use is necessary in order to be able to provide the online offer of BlueLogic LLC  at all and, moreover, to be able to optimize it on an ongoing basis. The data processing in this context is therefore based on Art. 6 para. 1 p. 1 f) GDPR. Our legitimate interest is to provide visitors to our Platform with a functioning online service and to make visiting and using the website as pleasant and efficient as possible.
 
 For further information on cookies in general, please visit www.allaboutcookies.org and for further details on the cookies we use, please refer to our Cookie Policy.
 
@@ -118,28 +118,28 @@ We store your personal data for as long as is necessary to fulfil the intended p
 
 ## Transfer of personal data
 
-BlueLogic, LLC will not sell, rent or otherwise transfer your personal data to third parties. We will transfer your data to third parties if you have consented to this in accordance with Art. 6 para. 1 p. 1 a) GDPR, or in the following cases:
+BlueLogic LLC will not sell, rent or otherwise transfer your personal data to third parties. We will transfer your data to third parties if you have consented to this in accordance with Art. 6 para. 1 p. 1 a) GDPR, or in the following cases:
 
-Contractors: BlueLogic, LLC may engage other companies and individuals in certain cases to fulfil its obligations to its customers on its behalf. This may involve sharing your data with these third parties in order to provide products or services to you. Examples include customer service, payment data processing and marketing support. In these cases, data is transferred to such service providers and contractors (such as payment service providers, advertising providers, technical service providers) for the purpose of fulfilling the contract in accordance with Art. 6 para. 1 p. 1 b) GDPR.
+Contractors: BlueLogic LLC may engage other companies and individuals in certain cases to fulfil its obligations to its customers on its behalf. This may involve sharing your data with these third parties in order to provide products or services to you. Examples include customer service, payment data processing and marketing support. In these cases, data is transferred to such service providers and contractors (such as payment service providers, advertising providers, technical service providers) for the purpose of fulfilling the contract in accordance with Art. 6 para. 1 p. 1 b) GDPR.
 
-It goes without saying that BlueLogic, LLC ensures that the respective service provider guarantees data security before passing on personal data. BlueLogic, LLC will therefore only commission companies that can guarantee secure and proper data processing based on their qualifications and their technical and organizational capabilities. 
+It goes without saying that BlueLogic LLC ensures that the respective service provider guarantees data security before passing on personal data. BlueLogic LLC will therefore only commission companies that can guarantee secure and proper data processing based on their qualifications and their technical and organizational capabilities. 
 
 ## Market Research
 
-All your data collected on the BlueLogic, LLC Platform for the purpose of market research will be used exclusively for BlueLogic, LLC internal purposes and will not be passed on to third parties. They will be deleted when their knowledge is no longer necessary for market research.
+All your data collected on the BlueLogic LLC Platform for the purpose of market research will be used exclusively for BlueLogic LLC internal purposes and will not be passed on to third parties. They will be deleted when their knowledge is no longer necessary for market research.
 
 Data processing due to legal requirements / protection against misuse / rights of third parties
-BlueLogic, LLC is entitled to process your personal data insofar as this is necessary to fulfil legal obligations. For this purpose, BlueLogic, LLC may transfer this data in particular to authorities, law enforcement agencies and courts. In this case, the transfer of your data is required by Art. 6 para. 1 p. 1 c) GDPR for compliance with a legal obligation to which we are subject. BlueLogic, LLC is further entitled to process personal data if and to the extent necessary to detect or prevent misuse of this website or to enforce claims of BlueLogic, LLC, its employees or users, whereby the data processing in these cases is necessary to protect these aforementioned legitimate interests of BlueLogic, LLC  pursuant to Art. 6 para. 1 p. 1 f) GDPR. 
+BlueLogic LLC is entitled to process your personal data insofar as this is necessary to fulfil legal obligations. For this purpose, BlueLogic LLC may transfer this data in particular to authorities, law enforcement agencies and courts. In this case, the transfer of your data is required by Art. 6 para. 1 p. 1 c) GDPR for compliance with a legal obligation to which we are subject. BlueLogic LLC is further entitled to process personal data if and to the extent necessary to detect or prevent misuse of this website or to enforce claims of BlueLogic LLC, its employees or users, whereby the data processing in these cases is necessary to protect these aforementioned legitimate interests of BlueLogic LLC  pursuant to Art. 6 para. 1 p. 1 f) GDPR. 
 
 Your personal data will not be transferred to countries outside the EU, with the exception of the transfer of information generated by the cookie.
 
 ## Automated decision-making
 
-Automated decision-making including profiling pursuant to Art. 22 (1) and (4) GDPR does not take place on the part of BlueLogic, LLC.
+Automated decision-making including profiling pursuant to Art. 22 (1) and (4) GDPR does not take place on the part of BlueLogic LLC.
 
 ## Direct marketing in the context of a customer relationship
 
-We use the data you provide to fulfil and process our contract and to respond to your enquiries in accordance with Art. 6 para. 1 p. 1 b) GDPR or on the basis of your consent in accordance with Art. 6 para. 1 p. 1 a) GDPR. Insofar as you have also given us separate consent to process your data for consulting and advertising purposes, BlueLogic, LLC is entitled to contact you for these purposes via the communication channels you have ticked in this consent.
+We use the data you provide to fulfil and process our contract and to respond to your enquiries in accordance with Art. 6 para. 1 p. 1 b) GDPR or on the basis of your consent in accordance with Art. 6 para. 1 p. 1 a) GDPR. Insofar as you have also given us separate consent to process your data for consulting and advertising purposes, BlueLogic LLC is entitled to contact you for these purposes via the communication channels you have ticked in this consent.
 
 ## Social Media
 
@@ -163,17 +163,17 @@ In order to assert your rights listed here, as well as for further questions on 
 
 ## Wyoming Personal Identity Information (PII) Statement
 
-Commercial Partners: Individual(s) or companies that have been approved by us as a recipient of organizational PII and from which BlueLogic, LLC has received confirmation of their data protection practices conformance with the requirements of this policy. Commercial Partners include all external providers of services to BlueLogic, LLC and include proposed Commercial Partners. No PII information can be transmitted to any vendor in any method unless the vendor has been pre-certified for the receipt of such information.
+Commercial Partners: Individual(s) or companies that have been approved by us as a recipient of organizational PII and from which BlueLogic LLC has received confirmation of their data protection practices conformance with the requirements of this policy. Commercial Partners include all external providers of services to BlueLogic LLC and include proposed Commercial Partners. No PII information can be transmitted to any vendor in any method unless the vendor has been pre-certified for the receipt of such information.
 
-PII Training: All new hires entering BlueLogic, LLC who may have access to PII are provided with introductory training regarding the provisions of this policy, a copy of this policy and implementing procedures for the department to which they are assigned. Employees in positions with regular ongoing access to PII or those transferred into such positions are provided with training reinforcing this policy and procedures for the maintenance of PII data and shall receive annual training regarding the security and protection of PII data and company proprietary data
+PII Training: All new hires entering BlueLogic LLC who may have access to PII are provided with introductory training regarding the provisions of this policy, a copy of this policy and implementing procedures for the department to which they are assigned. Employees in positions with regular ongoing access to PII or those transferred into such positions are provided with training reinforcing this policy and procedures for the maintenance of PII data and shall receive annual training regarding the security and protection of PII data and company proprietary data
 
-PII Audit(s): BlueLogic, LLC conducts audits of PII information maintained by BlueLogic, LLC  in conjunction with fiscal year closing activities to ensure that this policy remains strictly enforced and to ascertain the necessity for the continued retention of PII information. Where the need no longer exists, PII information will be destroyed in accordance with protocols for destruction of such records and logs maintained for the dates of destruction.
+PII Audit(s): BlueLogic LLC conducts audits of PII information maintained by BlueLogic LLC  in conjunction with fiscal year closing activities to ensure that this policy remains strictly enforced and to ascertain the necessity for the continued retention of PII information. Where the need no longer exists, PII information will be destroyed in accordance with protocols for destruction of such records and logs maintained for the dates of destruction.
 
-Data Breaches/Notification: Databases or data sets that include PII may be breached inadvertently or through wrongful intrusion. Upon becoming aware of a data breach, BlueLogic, LLC will notify all affected individuals whose PII data may have been compromised, and the notice will be accompanied by a description of action being taken to reconcile any damage as a result of the data breach. Notices will be provided as expeditiously as possible after the breach was discovered.
+Data Breaches/Notification: Databases or data sets that include PII may be breached inadvertently or through wrongful intrusion. Upon becoming aware of a data breach, BlueLogic LLC will notify all affected individuals whose PII data may have been compromised, and the notice will be accompanied by a description of action being taken to reconcile any damage as a result of the data breach. Notices will be provided as expeditiously as possible after the breach was discovered.
 
 Confirmation of Confidentiality: All company employees must maintain the confidentiality of PII as well as company proprietary data to which they may have access and understand that that such PII is to be restricted to only those with a business need to know. Employees with ongoing access to such data will sign acknowledgment reminders annually attesting to their understanding of this company requirement.
 
-Violations of PII Policies and Procedures: BlueLogic, LLC views the protection of PII data to be of the utmost importance. Infractions of this policy or its procedures will result in disciplinary actions under BlueLogic, LLC’s discipline policy and may include suspension or termination in the case of severe or repeat violations. PII violations and disciplinary actions are incorporated in BlueLogic, LLC’s PII on-boarding and refresher training to reinforce BlueLogic, LLC’s continuing commitment to ensuring that this data is protected by the highest standards.
+Violations of PII Policies and Procedures: BlueLogic LLC views the protection of PII data to be of the utmost importance. Infractions of this policy or its procedures will result in disciplinary actions under BlueLogic LLC’s discipline policy and may include suspension or termination in the case of severe or repeat violations. PII violations and disciplinary actions are incorporated in BlueLogic LLC’s PII on-boarding and refresher training to reinforce BlueLogic LLC’s continuing commitment to ensuring that this data is protected by the highest standards.
 
 ## When you send a data subject access request 
 
@@ -198,11 +198,11 @@ To protect the security of your data during transmission, we use state-of-the-ar
 
 ## Scope of this Privacy Policy
 
-This Privacy Policy only applies to the content on the BlueLogic, LLC Platform and the data processing on the servers we use. It does not cover such content and websites of third parties to which our offer merely links. The processing of your personal data via such websites is carried out by the respective provider of the website without us having any influence on this processing. For information on the handling and protection of your personal data on these websites, please refer to the Privacy Policy of the respective website.
+This Privacy Policy only applies to the content on the BlueLogic LLC Platform and the data processing on the servers we use. It does not cover such content and websites of third parties to which our offer merely links. The processing of your personal data via such websites is carried out by the respective provider of the website without us having any influence on this processing. For information on the handling and protection of your personal data on these websites, please refer to the Privacy Policy of the respective website.
 
 ## Changes to this Privacy Policy
 
-BlueLogic, LLC will review and revise this Privacy Policy from time to time as appropriate, for example, due to new technical developments or changes in case law or in our business operations. Therefore, we recommend that you review this Privacy Policy from time to time to ensure that you are aware of how BlueLogic, LLC collects, processes and uses data.
+BlueLogic LLC will review and revise this Privacy Policy from time to time as appropriate, for example, due to new technical developments or changes in case law or in our business operations. Therefore, we recommend that you review this Privacy Policy from time to time to ensure that you are aware of how BlueLogic LLC collects, processes and uses data.
 
 ## Further Information
 
