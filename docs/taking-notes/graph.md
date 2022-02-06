@@ -4,7 +4,13 @@ sidebar_position: 4
 
 # Graph view
 
-Graph view is a visualization of the relations between notes. Pro plan is needed to use the graph view feature.
+:::info
+
+This feature needs a Pro plan subscription.
+
+:::
+
+Graph view is a visualization of the relations between notes.
 
 Here is a screenshot of a part of my graph ([@zhy](https://windi.app/people/zhy/notes)):
 
