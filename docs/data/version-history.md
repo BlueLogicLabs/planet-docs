@@ -4,7 +4,13 @@ sidebar_position: 1
 
 # Version history
 
-Windi keeps a mutation log for all your notes. Logs for users on the Free plan are stored for 7 days, and logs for users on the Pro plan are stored for 90 days.
+:::info
+
+This feature needs a Pro plan subscription.
+
+:::
+
+Windi keeps a 90-day mutation log for all your notes.
 
 - To view the version history of a single note
 
