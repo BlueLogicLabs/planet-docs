@@ -31,8 +31,10 @@ Windi needs to have access to your Notion workspace to be able to render the pag
 
 A *witness* mechanism is used to control access to Notion pages through Windi. The *witness* is a note that contains a link to the Notion page. To access a page:
 
-- The **viewer** needs to have read access to a note that contains a link to the page.
-- The **owner** of the above note must have connected to the workspace that the page belongs to, and have read access to the page.
+1. The **viewer** needs to have read access to a note that contains a link to the page.
+2. The **owner** of the above note must have connected to the workspace that the page belongs to, and have read access to the page.
+
+Additionally, Windi detects the page property `windi.alwaysPublic` of `checkbox` type that, when set to true, skips checking for condition 1 and grants access as long as condition 2 is met.
 
 ## Bidirectional links
 
