@@ -50,7 +50,6 @@ tag "project" and after 2022-01-01
 The [lalrpop](https://github.com/lalrpop/lalrpop) grammar definition:
 
 ```
-
 pub Expr: Box<GraphQueryExpr<'input>> = {
   #[precedence(level="1")]
   <e:E1> =>? e.cost(st, 1),
@@ -91,14 +90,14 @@ E1: Box<GraphQueryExpr<'input>> = {
 Str: Cow<'input, str> = {
   <s:r#""[^"]*""#> => Cow::Borrowed(s.trim_matches('"')),
   <s:r#"'[^']*'"#> => Cow::Borrowed(s.trim_matches('\'')),
+  <s:r#"[^'"\s()]+"#> => Cow::Borrowed(s),
 }
 
 Date: u64 = {
-  <s:r#"[0-9]{4}-[0-9]{2}-[0-9]{2}"#> =>? chrono::NaiveDate::parse_from_str(s, "%Y-%m-%d")
+  <s:Str> =>? chrono::NaiveDate::parse_from_str(&s, "%Y-%m-%d")
     .map(|x| u64::try_from(x.signed_duration_since(chrono::NaiveDate::from_ymd(1970, 1, 1)).num_milliseconds()).unwrap_or(0))
     .map_err(|_| ParseError::User {
     error: GraphQueryParseError::InvalidDate,
   })
 }
-
 ```
