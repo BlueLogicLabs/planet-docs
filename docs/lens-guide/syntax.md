@@ -1,53 +1,10 @@
 ---
-sidebar_position: 8
+sidebar_position: 2
 ---
 
-# Lens
+# Query syntax
 
-:::info
-
-This feature needs a Pro plan subscription.
-
-:::
-
-:::warning
-
-This is an experimental feature.
-
-:::
-
-A lens is a **custom view** into your notes.
-
-## Example queries
-
-All *public* notes with the `#project` tag:
-
-```
-tag "project" and public
-```
-
-All *private* notes with the `#project` tag:
-
-```
-tag "project" and not public
-```
-
-All notes with either `#project` or `#area` tags:
-
-```
-tag "project" or tag "area"
-```
-
-All notes with the `#project` tag created after 2022-01-01:
-
-```
-tag "project" and after 2022-01-01
-```
-
-
-## Syntax
-
-The [lalrpop](https://github.com/lalrpop/lalrpop) grammar definition:
+Lens queries are written in a simple, declarative language. The [LALRPOP](https://github.com/lalrpop/lalrpop) grammar definition is given below:
 
 ```
 pub Expr: Box<GraphQueryExpr<'input>> = {
@@ -84,7 +41,26 @@ E1: Box<GraphQueryExpr<'input>> = {
   "before" <time:Date> => Box::new(GraphQueryExpr::TimeBefore { time }),
   "after" <time:Date> => Box::new(GraphQueryExpr::TimeAfter { time }),
   "public" => Box::new(GraphQueryExpr::Public),
+  "every" <x:Every> => x,
   "(" <e:Expr> ")" => e,
+}
+
+Every: Box<GraphQueryExpr<'input>> = {
+  "day" <x:Everyday> => x,
+}
+
+Everyday: Box<GraphQueryExpr<'input>> = {
+  "between" <from:TimeOfDay> "and" <to:TimeOfDay> "utc" => Box::new(GraphQueryExpr::Everyday { from, to }),
+  "after" <from:TimeOfDay> "utc" => Box::new(GraphQueryExpr::Everyday { from, to: 86400_000 - 1 }),
+  "before" <to:TimeOfDay> "utc" => Box::new(GraphQueryExpr::Everyday { from: 0, to }),
+}
+
+TimeOfDay: u64 = {
+  <s:Str> =>? chrono::NaiveTime::parse_from_str(&s, "%H:%M")
+    .map(|x| u64::try_from(x.signed_duration_since(chrono::NaiveTime::from_hms(0, 0, 0)).num_milliseconds()).unwrap_or(0))
+    .map_err(|_| ParseError::User {
+      error: GraphQueryParseError::InvalidTimeOfDay,
+    })
 }
 
 Str: Cow<'input, str> = {
@@ -97,7 +73,7 @@ Date: u64 = {
   <s:Str> =>? chrono::NaiveDate::parse_from_str(&s, "%Y-%m-%d")
     .map(|x| u64::try_from(x.signed_duration_since(chrono::NaiveDate::from_ymd(1970, 1, 1)).num_milliseconds()).unwrap_or(0))
     .map_err(|_| ParseError::User {
-    error: GraphQueryParseError::InvalidDate,
-  })
+      error: GraphQueryParseError::InvalidDate,
+    })
 }
 ```

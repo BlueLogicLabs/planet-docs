@@ -10,6 +10,12 @@ This feature needs a Pro plan subscription.
 
 :::
 
+:::warning
+
+Notion API is in Beta, so we marked this feature as Beta too. If you found any issues, please report them in our community!
+
+:::
+
 Windi focuses on short notes because there are already many nice tools for writing and sharing long notes - for example, [Notion](https://www.notion.so). We integrate with [Notion API](https://developers.notion.com/) to make it possible to link Notion pages from a Windi note, and have Windi take care of *rendering* and *networking* these pages. An example rendered page is [here](https://windi.app/people/zhy/page/99fa70ed9c6d4dc38fe3db97eaa53d3d?note=2022-02-05-4c25e02115c7).
 
 To create a link, paste the `notion.so` or `www.notion.so` URL of the page you want to link to:
