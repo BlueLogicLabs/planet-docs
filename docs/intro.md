@@ -7,15 +7,15 @@ slug: /
 
 ## About this site
 
-Welcome to Windi's documentation site! This site contains materials about Windi's features and design rationales, and we hope you will find them useful.
+Welcome to Planet's documentation site! This site contains materials about Planet's features and design rationales, and we hope you will find them useful.
 
 If you:
 
 - think a feature/property of the system should be documented but is missing
 - found a bug
-- want to share how you use Windi
+- want to share how you use Planet
 
-you can discuss on Discord, [file an issue](https://github.com/BlueLogicLabs/windi-docs/issues), or [send a pull request](https://github.com/BlueLogicLabs/windi-docs/pulls).
+you can discuss on Discord, [file an issue](https://github.com/BlueLogicLabs/planet-docs/issues), or [send a pull request](https://github.com/BlueLogicLabs/planet-docs/pulls).
 
 ## Community
 

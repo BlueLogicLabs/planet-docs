@@ -15,6 +15,6 @@ To create a link between notes, you first need to copy the URL of the note you w
 
 <img src="/img/note-menu-link-copy.png" alt="note menu copy option example" height="300px" />
 
-In the note you wish the link to appear in, simply paste the link without markdown syntax (`https://windi.app/people/someuser/2020-01-01-xxxxxxxxxxxx`) as part of the note content.  Make sure and paste the **entire URL**, not just the URL path.  Once you save the note, the two notes will be linked together.
+In the note you wish the link to appear in, simply paste the link without markdown syntax (`https://planet.ink/people/someuser/2020-01-01-xxxxxxxxxxxx`) as part of the note content.  Make sure and paste the **entire URL**, not just the URL path.  Once you save the note, the two notes will be linked together.
 
 So how does this help? Well, if you view the original note you linked to, you'll see that it has an additional "backlink". If you click the label, the note will be displayed in a modal window.

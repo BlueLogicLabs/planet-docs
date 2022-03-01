@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Privacy policy
 
-**Windi is in public beta and this privacy policy is a draft. If you have any questions or concerns, please contact us at hello@windi.app.**
+**Planet is in public beta and this privacy policy is a draft. If you have any questions or concerns, please contact us at hello@planet.ink.**
 
-This privacy policy informs you about the nature, scope and purpose of the processing of personal data (hereinafter referred to as "data") within our website (windi.app) and web application (our “Platform”), functions and content associated with it. 
+This privacy policy informs you about the nature, scope and purpose of the processing of personal data (hereinafter referred to as "data") within our website (planet.ink) and web application (our “Platform”), functions and content associated with it. 
 
 We process your personal data in line with this Privacy Policy and in accordance with Wyoming Privacy Laws and the General Data Protection Regulation (GDPR).
 
@@ -14,7 +14,7 @@ We process your personal data in line with this Privacy Policy and in accordance
 
 BlueLogic LLC a company lawfully registered in Wyoming.
 
-windi.app
+planet.ink
 
 ## Principles
 
@@ -206,7 +206,7 @@ BlueLogic LLC will review and revise this Privacy Policy from time to time as ap
 
 ## Further Information
 
-If you have any questions regarding our Privacy Policy, please contact us at **hello@windi.app**.
+If you have any questions regarding our Privacy Policy, please contact us at **hello@planet.ink**.
 
 
 

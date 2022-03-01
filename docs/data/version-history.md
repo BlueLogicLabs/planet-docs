@@ -10,7 +10,7 @@ This feature needs a Pro plan subscription.
 
 :::
 
-Windi keeps a 90-day mutation log for all your notes.
+Planet keeps a 90-day mutation log for all your notes.
 
 - To view the version history of a single note
 

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Terms of service
 
-Welcome to Windi website (windi.app) and web application (our “Platform”) operated by BlueLogic. The Services are provided subject to these terms and conditions, our Privacy Policy and our Cookie Policy, and any other guidelines, rules or operating policies that BlueLogic LLC a company lawfully registered in Wyoming (hereinafter, “BlueLogic”) may establish and post on the Website (collectively, the “Agreement”). These Terms of Use (the “Terms”) constitute a legal agreement between you and BlueLogic governing the use of our Platform and our Services. We license use of our Platform to you on the basis of these Terms. We do not sell our Platform to you and we remain the owner of our Platform at all times.
+Welcome to Planet website (planet.ink) and web application (our “Platform”) operated by BlueLogic. The Services are provided subject to these terms and conditions, our Privacy Policy and our Cookie Policy, and any other guidelines, rules or operating policies that BlueLogic LLC a company lawfully registered in Wyoming (hereinafter, “BlueLogic”) may establish and post on the Website (collectively, the “Agreement”). These Terms of Use (the “Terms”) constitute a legal agreement between you and BlueLogic governing the use of our Platform and our Services. We license use of our Platform to you on the basis of these Terms. We do not sell our Platform to you and we remain the owner of our Platform at all times.
 
 ## Interpretation
 
@@ -49,7 +49,7 @@ The definitions in this paragraph apply in these Terms:
 7. If you print off, copy or download any content on our Platform in breach of this Agreement, your right to use our Platform will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
 
 ## Services
-1. BlueLogic service is offered through the URL https://windi.app/ (the “Website”).
+1. BlueLogic service is offered through the URL https://planet.ink/ (the “Website”).
 2. Subject to the terms and conditions in the Agreement, during the Agreement Term, BlueLogic hereby grants you limited, non-exclusive, non-transferable, non-sublicensable, worldwide, and revocable rights to access and use the Services solely for your internal business purposes. You agree your subscription to access and use the Services is not contingent on delivery of any future functionality or features or the delivery of any other services. 
 
 ## Fees, Payments and Refunds
